@@ -1,0 +1,104 @@
+.container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+  width: 900px;
+  border-radius: 10px;
+  padding: 30px;
+  height: 430px;
+  background-color: cadetblue;
+}
+
+.titleBox {
+  width: 100%;
+  text-align: center;
+  background-color: gray;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+  margin-bottom: 20px;
+}
+.flex {
+  display: flex;
+}
+.alignLeft {
+  width: 55%;
+  padding: 10px;
+}
+.buttons {
+  width: 45%;
+  padding: 10px;
+}
+.buttons button {
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  border: 1px solid black;
+  margin: 5px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.selectDiv {
+  display: flex;
+  justify-content: end;
+}
+.selectDiv select {
+  width: 100px;
+  height: 35px;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  border: 1px solid white;  
+}
+.borderB {
+  border-bottom: 1px solid black;
+  height: 50px;
+  display: flex;
+  justify-content: start;
+  align-items: end;
+  width: 400px;
+  letter-spacing: 2px;
+}
+.first {
+  width: 100%;
+  font-weight: bold;
+  letter-spacing: 2px;
+
+}
+.newBtn {
+  width: 210px!important;
+}
+span {
+  display: flex;
+  justify-content: end;
+  width: fit-content;
+  height: 20px;
+  border: 1px solid red;
+  justify-content: end;
+}
+.btnConverter {
+  margin-top: 38px;
+  height: 55px;
+  cursor: pointer;
+}
+.flexzada {
+  display: flex;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.graus {
+  height: 50px;
+  display: flex;
+  align-items: end;
+}

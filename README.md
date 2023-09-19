@@ -1,8 +1,12 @@
-# React + Vite
+# Projeto de conversor de temperatura (°C, °K, °F)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Feito com react, trabalhando o uso de funções, useState, algumas validações e muitos outros conceitos.
 
-Currently, two official plugins are available:
+## Algumas prints de conversões
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Conversão para celsius
+![c](https://github.com/guiwebber/conversorTemperatura/assets/47763495/da5b1e12-9eb6-494d-96e2-67da6b53f05a)
+## Conversão para Fahreinheit
+![f](https://github.com/guiwebber/conversorTemperatura/assets/47763495/f789afde-7a0f-4525-bf2e-55e2c119a57d)
+## Conversão para Kelvin
+![k](https://github.com/guiwebber/conversorTemperatura/assets/47763495/7026703b-9985-4766-aa9a-32e9a05dce8a)
